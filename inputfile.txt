@@ -1,0 +1,11 @@
+Elephant|Grey|4
+Alligator|Green|4
+Centipede|Brown|100
+Gorilla|Black|2
+Octopus|Pink|8
+im not an animal im a dummy line!!!!!!
+Starfish|Orange|5
+Dolphin|Grey|0
+ME2IMADUMMYLINE
+Buffalo|Brown|4
+Tyrannosaurus|Unknown|2

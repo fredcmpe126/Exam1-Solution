@@ -1,0 +1,58 @@
+Species:Elephant Color:Grey Legs:4
+Species:Alligator Color:Green Legs:4
+Species:Centipede Color:Brown Legs:100
+Species:Gorilla Color:Black Legs:2
+Species:Octopus Color:Pink Legs:8
+Species:Starfish Color:Orange Legs:5
+Species:Dolphin Color:Grey Legs:0
+Species:Buffalo Color:Brown Legs:4
+Species:Tyrannosaurus Color:Unknown Legs:2
+
+Species:Elephant Color:Grey Legs:4
+Species:Alligator Color:Green Legs:4
+Species:Centipede Color:Brown Legs:100
+Species:Gorilla Color:Black Legs:2
+Species:Octopus Color:Pink Legs:8
+Species:Starfish Color:Orange Legs:5
+Species:Dolphin Color:Grey Legs:0
+Species:Buffalo Color:Brown Legs:4
+Species:Tyrannosaurus Color:Unknown Legs:2
+Species:Tiger Color:Orange Legs:4
+
+Species:Elephant Color:Grey Legs:4
+Species:Alligator Color:Green Legs:4
+Species:Centipede Color:Brown Legs:100
+Species:Gorilla Color:Black Legs:2
+Species:Octopus Color:Pink Legs:8
+Species:Starfish Color:Orange Legs:5
+Species:Dolphin Color:Grey Legs:0
+Species:Buffalo Color:Brown Legs:4
+Species:Tyrannosaurus Color:Unknown Legs:2
+
+Species:Dolphin Color:Grey Legs:0
+Species:Gorilla Color:Black Legs:2
+Species:Tyrannosaurus Color:Unknown Legs:2
+Species:Alligator Color:Green Legs:4
+Species:Elephant Color:Grey Legs:4
+Species:Buffalo Color:Brown Legs:4
+Species:Starfish Color:Orange Legs:5
+Species:Octopus Color:Pink Legs:8
+Species:Centipede Color:Brown Legs:100
+
+Median:
+Species:Elephant Color:Grey Legs:4
+
+Less than 4 legs:
+Species:Dolphin Color:Grey Legs:0
+Species:Gorilla Color:Black Legs:2
+Species:Tyrannosaurus Color:Unknown Legs:2
+
+Species:Alligator Color:Green Legs:4
+Species:Buffalo Color:Brown Legs:4
+Species:Centipede Color:Brown Legs:100
+Species:Dolphin Color:Grey Legs:0
+Species:Elephant Color:Grey Legs:4
+Species:Gorilla Color:Black Legs:2
+Species:Octopus Color:Pink Legs:8
+Species:Starfish Color:Orange Legs:5
+Species:Tyrannosaurus Color:Unknown Legs:2
