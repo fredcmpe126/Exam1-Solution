@@ -98,6 +98,7 @@ Animal Zoo::FindMedian() {
 }
 
 void Zoo::LessThan4(ofstream& filename) {
+    sort();
     for(int i = 0; i < ZooAnimals.size(); i++){
         if(ZooAnimals[i].GetLegs() >= 4) return;
         else filename << ZooAnimals[i];
