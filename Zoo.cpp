@@ -94,6 +94,7 @@ void Zoo::SortAlpha(){
 }
 
 Animal Zoo::FindMedian() {
+    sort();
     return ZooAnimals[ZooAnimals.size()/2];
 }
 
