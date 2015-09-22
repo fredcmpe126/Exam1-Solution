@@ -1,2 +1,1 @@
-# Exam1
-Exam 1
+# Exam1-Solution
